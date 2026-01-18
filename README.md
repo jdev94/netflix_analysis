@@ -33,19 +33,19 @@ Réponses à 10 questions business :
 - **Expansion géographique** : carte choropleth animée montrant l'évolution pays producteurs (3→50+ pays)
 
 **1. Barres Films vs Séries par année**
-<iframe src="images/netflix_barres_sortie_films_series.html" width="100%" height="500"></iframe>
+images/netflix_barres_films_series.png
 
-**2. Ajouts mensuels + Trend**
-<iframe src="images/netflix_line_sortie_annee_mois.html" width="100%" height="500"></iframe>
+**2. Ajouts mensuels + moyenne mobile**
+images/netflix_line_nombre_sortie_par_mois.png
 
 **3. Distribution durées Films**
-<iframe src="images/netflix_boxplot_durees_films.html" width="100%" height="500"></iframe>
+images/netflix_boxplot_distribution_durees_films.png
 
 **4. Répartition Genres (Treemap)**
-<iframe src="images/netflix_treemap_repartition_genres.html" width="100%" height="550"></iframe>
+images/netflix_treemap_repartition_genres.png
 
-**5. Production par pays (Animation)**
-<iframe src="images/netflix_choropleth_evolution_pays.html" width="100%" height="600"></iframe>
+**5. Production par pays (Choropleth)**
+images/netflix_choropleth_evolution_production_pays.png
 
 
 ### Insights Business
