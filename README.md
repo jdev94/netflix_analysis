@@ -32,6 +32,22 @@ Réponses à 10 questions business :
 - **Répartition des genres** : treemap hiérarchique de 40+ catégories (International Movies dominant à 14.2%)
 - **Expansion géographique** : carte choropleth animée montrant l'évolution pays producteurs (3→50+ pays)
 
+**1. Barres Films vs Séries par année**
+<iframe src="images/netflix_barres_sortie_films_series.html" width="100%" height="500"></iframe>
+
+**2. Ajouts mensuels + Trend**
+<iframe src="images/netflix_line_sortie_annee_mois.html" width="100%" height="500"></iframe>
+
+**3. Distribution durées Films**
+<iframe src="images/netflix_boxplot_durees_films.html" width="100%" height="500"></iframe>
+
+**4. Répartition Genres (Treemap)**
+<iframe src="images/netflix_treemap_repartition_genres.html" width="100%" height="550"></iframe>
+
+**5. Production par pays (Animation)**
+<iframe src="images/netflix_choropleth_evolution_pays.html" width="100%" height="600"></iframe>
+
+
 ### Insights Business
 
 - **Pic de production 2019** : 1999 ajouts suivi d'une chute COVID-2020
